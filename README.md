@@ -5,7 +5,7 @@ This repository contains a comprehensive penetration test report conducted on a 
 
 Please note that the full report is written in Norwegian.
 
-# Report
+# Teknisk Sårbarhetsrevisjon
 <img src="pictures1/0001.jpg" width="800">
 <img src="pictures1/0002.jpg" width="800">
 <img src="pictures1/0003.jpg" width="800">

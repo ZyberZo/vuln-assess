@@ -15,16 +15,16 @@ Please note that the full report is written in Norwegian.
 <img src="pictures1/0007.jpg" width="800">
 <img src="pictures1/0008.jpg" width="800">
 <img src="pictures1/0009.jpg" width="800">
-<img src="pictures1/00010.jpg" width="800">
-<img src="pictures1/00011.jpg" width="800">
-<img src="pictures1/00022.jpg" width="800">
-<img src="pictures1/00013.jpg" width="800">
-<img src="pictures1/00014.jpg" width="800">
-<img src="pictures1/00015.jpg" width="800">
-<img src="pictures1/00016.jpg" width="800">
-<img src="pictures1/00017.jpg" width="800">
-<img src="pictures1/00018.jpg" width="800">
-<img src="pictures1/00019.jpg" width="800">
-<img src="pictures1/00020.jpg" width="800">
+<img src="pictures1/0010.jpg" width="800">
+<img src="pictures1/0011.jpg" width="800">
+<img src="pictures1/0022.jpg" width="800">
+<img src="pictures1/0013.jpg" width="800">
+<img src="pictures1/0014.jpg" width="800">
+<img src="pictures1/0015.jpg" width="800">
+<img src="pictures1/0016.jpg" width="800">
+<img src="pictures1/0017.jpg" width="800">
+<img src="pictures1/0018.jpg" width="800">
+<img src="pictures1/0019.jpg" width="800">
+<img src="pictures1/0020.jpg" width="800">
 
 

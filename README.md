@@ -8,5 +8,23 @@ Please note that the full report is written in Norwegian.
 # Report
 <img src="pictures1/0001.jpg" width="800">
 <img src="pictures1/0002.jpg" width="800">
+<img src="pictures1/0003.jpg" width="800">
+<img src="pictures1/0004.jpg" width="800">
+<img src="pictures1/0005.jpg" width="800">
+<img src="pictures1/0006.jpg" width="800">
+<img src="pictures1/0007.jpg" width="800">
+<img src="pictures1/0008.jpg" width="800">
+<img src="pictures1/0009.jpg" width="800">
+<img src="pictures1/00010.jpg" width="800">
+<img src="pictures1/00011.jpg" width="800">
+<img src="pictures1/00022.jpg" width="800">
+<img src="pictures1/00013.jpg" width="800">
+<img src="pictures1/00014.jpg" width="800">
+<img src="pictures1/00015.jpg" width="800">
+<img src="pictures1/00016.jpg" width="800">
+<img src="pictures1/00017.jpg" width="800">
+<img src="pictures1/00018.jpg" width="800">
+<img src="pictures1/00019.jpg" width="800">
+<img src="pictures1/00020.jpg" width="800">
 
 

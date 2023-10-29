@@ -17,7 +17,7 @@ Please note that the full report is written in Norwegian.
 <img src="pictures1/0009.jpg" width="800">
 <img src="pictures1/0010.jpg" width="800">
 <img src="pictures1/0011.jpg" width="800">
-<img src="pictures1/0022.jpg" width="800">
+<img src="pictures1/0012.jpg" width="800">
 <img src="pictures1/0013.jpg" width="800">
 <img src="pictures1/0014.jpg" width="800">
 <img src="pictures1/0015.jpg" width="800">

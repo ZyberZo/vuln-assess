@@ -6,3 +6,5 @@ This repository contains a comprehensive penetration test report conducted on a 
 Please note that the full report is written in Norwegian.
 
 # Report
+<img src="pictures/0001">
+<img src="pictures1/0002">
